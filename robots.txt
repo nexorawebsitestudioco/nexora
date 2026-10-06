@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://nexorawebsitestudioco.github.io/nexora/sitemap.xml
